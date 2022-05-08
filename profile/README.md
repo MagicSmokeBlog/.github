@@ -1,0 +1,1 @@
+Magic smoke is put in all electronic components at the factory when the component is manufactured, and it is this magic smoke that makes the component work. Once the magic smoke has escaped the electronic component no longer works.
