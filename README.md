@@ -1,1 +1,1 @@
-# The MagicSmokeBlog's magic repository.
+# The MagicSmokeBlog's magic repository
